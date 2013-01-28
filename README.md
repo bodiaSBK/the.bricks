@@ -1,4 +1,4 @@
 the.bricks
 ==========
 
-bootstrap the bricks 
+The Bricks – User Interface Framework
